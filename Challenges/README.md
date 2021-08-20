@@ -1,4 +1,5 @@
 # LeetCoding Challenges
+
 2020:
 - [August LeetCoding Challenge](/Challenges/2020/August-LeetCoding-Challenge.md)
 - [September LeetCoding Challenge](/Challenges/2020/September-LeetCoding-Challenge.md)
