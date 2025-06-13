@@ -7,7 +7,6 @@
 ## Introduction
 In this repository provided my Python solutions of LeetCode problems. 
 - I highly recommend you to try and solve problems yourself before look at the solutions here.
-- Solutions and approaches may be not optimal (I'm learning and practicing DSA & committing my solutions).
 - All Solutions here are in Python 3.
 ## LeetCoding Challenges
 
