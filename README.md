@@ -5,8 +5,6 @@
 ![Update](https://img.shields.io/badge/update-Daily-brightgreen.svg)&nbsp;
 <br><br>
 
-## Project on summer  pause :)
-
 ## Introduction
 In this repository provided my Python solutions of LeetCode problems. 
 - I highly recommend you to try and solve problems yourself before look at the solutions here.
