@@ -2,24 +2,18 @@
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
 ![Problems Solved](https://img.shields.io/badge/problems%20solved-561%2F1923-orange)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)&nbsp;
-![Update](https://img.shields.io/badge/update-Daily-brightgreen.svg)&nbsp;
 <br><br>
-
-## Project on summer  pause :)
 
 ## Introduction
 In this repository provided my Python solutions of LeetCode problems. 
 - I highly recommend you to try and solve problems yourself before look at the solutions here.
-- Solutions and approaches may be not optimal (I'm learning and practicing DSA & committing my solutions).
 - All Solutions here are in Python 3.
 ## LeetCoding Challenges
 
 2020:
-- [April LeetCoding Challenge](/Challenges/2020/April-LeetCoding-Challenge.md) - 28/30
 - [August LeetCoding Challenge](/Challenges/2020/August-LeetCoding-Challenge.md) - 31/31
 - [September LeetCoding Challenge](/Challenges/2020/September-LeetCoding-Challenge.md) - 30/30
 - [November LeetCoding Challenge](/Challenges/2020/November-LeetCoding-Challenge.md) - 24/30
-- [December LeetCoding Challenge](/Challenges/2020/December-LeetCoding-Challenge.md) - 27/31
 
 2021:
 - [January LeetCoding Challenge](/Challenges/2021/January-LeetCoding-Challenge.md) - 27/31
@@ -27,7 +21,6 @@ In this repository provided my Python solutions of LeetCode problems.
 - [March LeetCoding Challenge](/Challenges/2021/March-LeetCoding-Challenge.md) - 23/31
 - [April LeetCoding Challenge](/Challenges/2021/April-LeetCoding-Challenge.md) - 23/30
 - [May LeetCoding Challenge](/Challenges/2021/May-LeetCoding-Challenge.md) - 17/31
-- [June LeetCoding Challenge](/Challenges/2021/June-LeetCoding-Challenge.md) - 10/30
 
 <br><br>
 ## Solutions
