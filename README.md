@@ -15,11 +15,9 @@ In this repository provided my Python solutions of LeetCode problems.
 ## LeetCoding Challenges
 
 2020:
-- [April LeetCoding Challenge](/Challenges/2020/April-LeetCoding-Challenge.md) - 28/30
 - [August LeetCoding Challenge](/Challenges/2020/August-LeetCoding-Challenge.md) - 31/31
 - [September LeetCoding Challenge](/Challenges/2020/September-LeetCoding-Challenge.md) - 30/30
 - [November LeetCoding Challenge](/Challenges/2020/November-LeetCoding-Challenge.md) - 24/30
-- [December LeetCoding Challenge](/Challenges/2020/December-LeetCoding-Challenge.md) - 27/31
 
 2021:
 - [January LeetCoding Challenge](/Challenges/2021/January-LeetCoding-Challenge.md) - 27/31
@@ -27,7 +25,6 @@ In this repository provided my Python solutions of LeetCode problems.
 - [March LeetCoding Challenge](/Challenges/2021/March-LeetCoding-Challenge.md) - 23/31
 - [April LeetCoding Challenge](/Challenges/2021/April-LeetCoding-Challenge.md) - 23/30
 - [May LeetCoding Challenge](/Challenges/2021/May-LeetCoding-Challenge.md) - 17/31
-- [June LeetCoding Challenge](/Challenges/2021/June-LeetCoding-Challenge.md) - 10/30
 
 <br><br>
 ## Solutions
